@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Aishwarya+Suryawanshi;Electronics+%26+Telecom+Engineer;DRDO+Intern+%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Aishwarya+Suryawanshi;Electronics+%26+Telecom+Engineer" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Robotics | Embedded Systems | Control Systems Enthusiast</h3>
@@ -64,14 +64,16 @@ From designing **biped humanoid trajectories** to building **smart IoT systems**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AAISHAA1585&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" height="170" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAISHAA1585&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAISHAA1585&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AAISHAA1585&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </p>
----
+
+
+
 
 
 ## 🤝 Open for Collaboration
