@@ -15,7 +15,7 @@
 Hey, I'm **Aishwarya**, a engineer passionate about building **intelligent systems** and **sustainable solutions**. Currently pursuing **Electronics & Telecommunication Engineering at GCOEARA, Pune**
 
 <bra>
-From designing **biped humanoid trajectories** to building **smart IoT systems**, I'm all about **learning, building, and innovating**.
+From designing biped humanoid trajectories to building smart IoT systems, I'm all about learning, building, and innovating.
 <bra>
   
 
@@ -71,6 +71,7 @@ From designing **biped humanoid trajectories** to building **smart IoT systems**
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AAISHAA1585&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </p>
+
 
 
 
